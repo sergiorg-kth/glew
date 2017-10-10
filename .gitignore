@@ -1,5 +1,7 @@
 *.pc
 /build/vc6/*.rc
+/build/include/*
+/build/lib*/*
 /build/*.rc
 /build/*/*.sdf
 /build/*/*.suo
